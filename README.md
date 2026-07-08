@@ -152,8 +152,6 @@ The system provides
 
 AI & Data Science Student
 
-Vice Chair - ACM SIG AI
-
 GitHub: https://github.com/bhavyaanil07
 
 ---
