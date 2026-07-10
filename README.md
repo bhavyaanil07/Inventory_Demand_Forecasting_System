@@ -147,11 +147,8 @@ The system provides
 ---
 
 ## 👨‍💻 Author
-
 **Bhavya Anil**
-
 AI & Data Science Student
-
 GitHub: https://github.com/bhavyaanil07
 
 ---
